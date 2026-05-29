@@ -124,7 +124,7 @@ Completion unlocks the next available mission. Some missions are linear (this un
 
 ## Couple Mechanic — Decided
 
-**Core principle:** The most valuable thing this game produces for a couple is the record of how differently two people experience the same thing. The divergence between two partners' debriefs of the same mission *is* the couple narrative.
+**Core principle:** Experience things together, have fun, and give and receive emotional and psychological support.
 
 **Mission weighting: heavily Joint.** Most missions are designed for both partners. Individual and split missions exist but are the exception, not the rule.
 
